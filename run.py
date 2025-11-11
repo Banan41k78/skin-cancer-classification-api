@@ -111,4 +111,5 @@ def main():
         print(f"❌ Ошибка запуска сервера: {e}")
 
 if __name__ == "__main__":
+
     main()
