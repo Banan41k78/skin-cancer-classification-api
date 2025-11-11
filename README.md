@@ -1,5 +1,7 @@
 # skin-cancer-classification-api
 A deep learning API for skin cancer classification and risk assessment using multimodal data (images + clinical metadata). The model predicts 4 types of skin lesions and provides risk levels for clinical decision support.
+ ## train
+ https://colab.research.google.com/drive/1b6MJRtXQFL4hKrmkohUpZIahfz6DTgtR?usp=sharing
  ## Features
 - **Multimodal Analysis**: Combines image data with clinical metadata
 - - **4-Level Risk Assessment**: Provides clinical risk stratification
