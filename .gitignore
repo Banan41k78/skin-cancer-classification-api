@@ -31,12 +31,6 @@ env/
 *.swp
 *.swo
 
-# Data and Models
-data/
-models/trained_models/*.h5
-models/trained_models/*.pkl
-models/trained_models/*.keras
-
 # Logs
 logs/*.log
 *.log
